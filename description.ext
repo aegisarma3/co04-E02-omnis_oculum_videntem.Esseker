@@ -1,11 +1,12 @@
 #include "aegis\functions.hpp"
+#include "uplink\downloadData.hpp"
 
 author = "Toaster & Collumbus";
-onLoadName = "Terra de Ninguém";
-onLoadMission = "PMC AEGIS inicia seu contrato mais perigoso até hoje.";
-loadScreen = "images\intro.jpg";
-overviewPicture = "images\intro.paa";
-overviewText = "PMC AEGIS inicia seu contrato mais perigoso até hoje.";
+onLoadName = "Omnis Oculum Videntem";
+onLoadMission = "Uma nova informação ameaça os objetivos da PMC AEGIS na região de Esseker.";
+loadScreen = "images\intro2.jpg";
+overviewPicture = "images\intro2.jpg";
+overviewText = "Uma nova informação ameaça os objetivos da PMC AEGIS na região de Esseker.";
 
 /*player createDiaryRecord ["Diary", ["Execution", "A inserção do grupo AEGIS já foi iniciada por meio de contatos locais. <br/>O grupo sairá da residência do empresário que contataria João Silva, em seguida deverá iniciar incurssão pelo centro da cidade até a mesquita. <br/><br/>De lá, deverão avançar até o aeroporto, onde um avião aguarda o VIP para extração."]];
 player createDiaryRecord ["Diary", ["Missão", "O presidente d Anabel Engenharia contratou o <marker name='aegis'>AEGIS</marker> para fazer a <marker name='extracao'>extração</marker> de <marker name='vip'>João Silva</marker> até o aeroporto de Zargabad, aonde um <marker name='extracao'>C130</marker> está esperando."]];
@@ -40,8 +41,8 @@ class CfgDebriefing
 	class End1
 	{
 		title = "Missão Cumprida";
-		subtitle = "Geradores destruídos";
-		description = "PMC AEGIS conseguiu destruir os geradores, abrindo caminho para transporte aéreo.";
+		subtitle = "Uplink Hackeado";
+		description = "PMC AEGIS conseguiu apagar os dados do uplink russo e garantir sua posição na região.";
 		pictureBackground = "";
 		picture = "b_inf";
 		pictureColor[] = {0.0,0.3,0.6,1};

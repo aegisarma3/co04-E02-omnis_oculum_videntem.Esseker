@@ -1,9 +1,10 @@
 
-# ![logo](images/HEADER_README.jpg)
-Primeiro episódio da campanha em Esseker.
+# Omnis Oculum Videntem
+Segundo episódio da campanha em Esseker.
 
 # ![logo](images/SITREP_README.jpg)
-A escrever...
+Após ter estabelecido um posto avançado de operações a equipe Kaiser dá início as buscas pelo material nuclear roubado. No entanto, Corona faz contato com a equipe a algumas horas atrás e reporta uma novidade que pode pôr em risco toda a operação. Um contato no exército russo (Mikhail Vladimirovich) informou a AEGIS que além das baterias antiaéreas um drone de rastreamento de superfície percorre toda a área de exclusão, pois do contrário seriam necessárias muitas unidades para guardar todo o perímetro.  
+O atraso dessa informação é preocupante, pois há uma grande possibilidade do drone ter detectado a movimentação da equipe Kaiser após a inserção. Infelizmente o drone opera em baixas altitudes impossibilitando o seu rastreamento por radares ou mesmo satélites. Dessa forma torna-se prioridade encontrar algum ponto de uplink do drone e hackear o sistema evitando que as imagens sejam transferidas, sem ser detectado pelo sistema.  
 
 # ![logo](images/MODS_README.jpg)
 Todos os mods abaixo são necessários para a campanha.
@@ -28,4 +29,3 @@ Todos os mods abaixo são necessários para a campanha.
 
 ## Mods utilizados no server:
 - [@inidbi](http://www.armaholic.com/page.php?id=23340)
-
